@@ -1,4 +1,4 @@
-### Dice Roller Program
+# Dice Roller Program
 This project is a simple counter application built with HTML, CSS, and JavaScript. The program allows users to roll a dice value that is displayed on the screen. It's designed as a beginner-friendly project to demonstrate DOM manipulation and images in JavaScript.
 ## Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
@@ -15,13 +15,13 @@ Open the index.html file in your browser to view the application:
 Right-click on index.html and select "Open with" > Your Browser.
 Running the Application
 Once the index.html file is open in your browser, you can interact with the program by using the roll button. 
-## Tests
+### Tests
 This project is simple and does not include automated tests. You can manually verify its functionality by interacting with the button in the browser.
 ## Built With
 HTML: Structure of the web page.
 CSS: Styling for the application.
 JavaScript: Logic for button functionality.
-## Authors
+### Authors
 Aryan - Dice Roller Program - Aryangoel225
 ## Acknowledgments
 Learn the basis of CSS, HMTL, and Javascript to create this program from a creator named BroCode.
